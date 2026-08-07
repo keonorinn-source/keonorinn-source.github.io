@@ -28,13 +28,13 @@ I went to Kmart to buy coloured pencils and chose a pastel set as they have a go
 
 I used the colours of the pastel pencils to inspire the colour scale and shaded each cell accordingly. Additionally, I coloured each month of each year to highlight which location I was in during each period. 
 
-![drawing it by hand](process-05.jpeg) 
+![drawing it by hand](process-05.jpg) 
 
 Once I got everything planned out, I started to draw the heatmap by hand on the piece of graphing paper which was kindly given to me by our course coordinator Dr. James Baglin. 
 
 ## The final visualisation
 
-![Final hand-drawn visualisation](final-viz.jpeg)
+![Final hand-drawn visualisation](final-viz.jpg)
 
 This is the final version, I tried my best--not bad for someone who hasn't touched art since 10th grade. 
 
