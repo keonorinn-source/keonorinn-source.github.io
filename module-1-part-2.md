@@ -20,7 +20,7 @@ a heatmap would be a fun way of visualising walking; I ultimately went with crea
 I drafted the initial heatmap into a horizontal table and chose 3 years (2022-2024) as I believethey contained the most interesting data as that was when I went on a few overseas trips and in 2024
 Im oved to Australia for university. This would be a good opportunity to see how my walking habits would've changed when I moved cities.
 
-![Adding the colour scale](process-03.jpeg)
+![Adding the colour scale](process-03.jpg)
 
 I went to Kmart to buy coloured pencils and chose a pastel set as they have a good range of gradients that would be cool to see in my hand drawn version. 
 
