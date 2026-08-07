@@ -1,2 +1,8 @@
 # keonorinn.github.io
-This is for my elective Data Visualisation wit R, taken in year 3, semester 2 at RMIT in 2026
+# Data Visualisation Portfolio
+
+Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 2026.
+
+## Module 1
+
+- [Part II: Draw it like Playfair, Minard and Nightingale](module-1-part-2) — a hand-drawn calendar heatmap of three years of personal step-count data.
