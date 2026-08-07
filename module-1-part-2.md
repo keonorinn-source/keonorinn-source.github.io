@@ -9,32 +9,32 @@ find patterns and insights on which periods I tend to walk more or walk less.
 
 ## The process
 
-![sorting the data on Excel](process-01.jpg)
+![sorting the data on Excel](process-01.jpeg)
 
 During this stage, I was collecting data by hand and writing it down in excel through creating columns and tables. I was still unsure of how to proceed, initially I thought of capturing the 
 monthly average steps over the last 5 years and visualising it via a line plot with each line representing a year, but I thought it was too simple. I challenged myself a little and realised
 a heatmap would be a fun way of visualising walking; Iultimately went with creating a calendar heatmap as my final choice of visualisation.
 
-![drafting the Calendar Heatmap template on Excel](process-02.jpg) 
+![drafting the Calendar Heatmap template on Excel](process-02.jpeg) 
 
 I drafted the initial heatmap into a horizontal table and chose 3 years (2022-2024) as I believethey contained the most interesting data as that was when I went on a few overseas trips and in 2024
 Im oved to Australia for university. This would be a good opportunity to see how my walking habits would've changed when I moved cities.
 
-![Adding the colour scale](process-03.jpg)
+![Adding the colour scale](process-03.jpeg)
 
 I went to Kmart to buy coloured pencils and chose a pastel set as they have a good range of gradients that would be cool to see in my hand drawn version. 
 
-![final draft on Excel](process-04.jpg) 
+![final draft on Excel](process-04.jpeg) 
 
 I used the colours of the pastel pencils to inspire the colour scale and shaded each cell accordingly. Additionally, I coloured each month of each year to highlight which location I was in during each period. 
 
-![drawing it by hand](process-05.jpg) 
+![drawing it by hand](process-05.jpeg) 
 
 Once I got everything planned out, I started to draw the heatmap by hand on the piece of graphing paper which was kindly given to me by our course coordinator Dr. James Baglin. 
 
 ## The final visualisation
 
-![Final hand-drawn visualisation](final-viz.jpg)
+![Final hand-drawn visualisation](final-viz.jpeg)
 
 This is the final version, I tried my best--not bad for someone who hasn't touched art since 10th grade. 
 
