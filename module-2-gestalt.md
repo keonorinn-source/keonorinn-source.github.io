@@ -4,7 +4,7 @@
 
 ## Objective
 
-This module tasks me with choosing an visualisation and analysing it through answering a variety of questions that discusses design choices and data visualisation theory. 
+This module tasks me with choosing a visualisation and analysing it through answering a variety of questions that discusses design choices and data visualisation theory. 
 I chose the visualisation titled "Rail travel is more common in Japan than in Western Europe and the US" which was found on the website Ourworldindata.org. 
 
 ## The visualisation
