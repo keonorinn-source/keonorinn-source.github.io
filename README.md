@@ -1,4 +1,3 @@
-# keonorinn-source.github.io
 # Data Visualisation Portfolio
 
 Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 2026.
