@@ -13,7 +13,7 @@ find patterns and insights on which periods I tend to walk more or walk less.
 
 During this stage, I was collecting data by hand and writing it down in excel through creating columns and tables. I was still unsure of how to proceed, initially I thought of capturing the 
 monthly average steps over the last 5 years and visualising it via a line plot with each line representing a year, but I thought it was too simple. I challenged myself a little and realised
-a heatmap would be a fun way of visualising walking; Iultimately went with creating a calendar heatmap as my final choice of visualisation.
+a heatmap would be a fun way of visualising walking; I ultimately went with creating a calendar heatmap as my final choice of visualisation.
 
 ![drafting the Calendar Heatmap template on Excel](process-02.jpeg) 
 
