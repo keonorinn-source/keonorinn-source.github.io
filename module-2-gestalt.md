@@ -9,7 +9,7 @@ I chose the visualisation titled "Rail travel is more common in Japan than in We
 
 ## The visualisation
 
-![Share of passenger kilometres travelled by rail and road, 2021](module-2-viz.jpeg)
+![Share of passenger kilometres travelled by rail and road, 2021](module-2-viz.jpg)
 
 *Source: [Samborska & Acisu (2024)](#references)*
 
