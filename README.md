@@ -12,12 +12,12 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 
 ## Module 3
 
-- [Examining and tracing a data source to a visualisation on HowMuch.net](module-3-portfolio-exercise) — extracting the original sources of data used on a public website, verifying and examine the accuracy and finding if there are any discrepancies.
+- [Examining and tracing a data source to a visualisation on HowMuch.net](module-3-portfolio-exercise.md) — extracting the original sources of data used on a public website, verifying and examine the accuracy and finding if there are any discrepancies.
 
 ## Module 4
 
-- [Developing data visualisation skills in R with tidyverse and ggplot2](module-4-skills-showcase) — Developing my skills in data visusalisation using R studios as my tool of choice. I've completed two certificates from DataCamp: Introduction to Data Visualisation with gglot2 & Introduction to Data Visualisation with tidyverse. 
+- [Developing data visualisation skills in R with tidyverse and ggplot2](module-4-skills-showcase.md) — Developing my skills in data visusalisation using R studios as my tool of choice. I've completed two certificates from DataCamp: Introduction to Data Visualisation with gglot2 & Introduction to Data Visualisation with tidyverse. 
 
 ## Module 5
 
-- [Copy the master & recolour it!](module-5-recreation-recolour) — I've recreated a visualisation I've found on OWID using R studio, documented my creation process, errors, and my results. Additionally, I've also recoloured the visualisation to make it follow responsible colour principles and be more accessible to people with colour-blindness
+- [Copy the master & recolour it!](module-5.md) — I've recreated a visualisation I've found on OWID using R studio, documented my creation process, errors, and my results. Additionally, I've also recoloured the visualisation to make it follow responsible colour principles and be more accessible to people with colour-blindness
