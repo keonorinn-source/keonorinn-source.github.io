@@ -32,7 +32,7 @@ Title spacing. The gap between the title and subtitle was wider than the origina
 I then removed the axis furniture and gridlines with theme_minimal() and a series of element_blank() calls. This removed the x-axis text, ticks, gridlines and axis titles, leaving the percentages inside the bars to provide the quantitative information. I saved both an intermediate test version and the finished reproduction as image files before moving on to the recolouring. 
 
 # My Recreation of the OWID Chart
-![Recreation of Meat preferences vary a lot across different countries](meat-preferences-by-country.jpg)
+![Recreation of Meat preferences vary a lot across different countries](final_data_recreation.png)
 
 
 ## Reconstructing with an alternative colour-scale 
@@ -56,5 +56,5 @@ I kept the same eight-percent threshold for the labels, meaning that only segmen
 Finally, I reversed the legend using guide_legend(reverse = TRUE) so that its order matches the order in which the meat categories appear in the stacked bars. The result is a recoloured version that keeps the structure and layout of the reproduced visualisation while improving the distinction between categories and the readability of labels on lighter backgrounds. 
 
 # My Recolour of the OWID chart
-![Recolour of Meat preferences vary a lot across different countries](meat-preferences-by-country.jpg)
+![Recolour of Meat preferences vary a lot across different countries](final_data_recolour.png)
 
