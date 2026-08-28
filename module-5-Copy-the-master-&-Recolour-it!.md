@@ -3,7 +3,8 @@
 *Published 28 August 2026*
 
 ## Chosen Master Visualisation
-
+![Meat preferences vary a lot across different countries, 2026](meat-preferences-by-country.jpg)
+Ritchie, H., & Arriagada, P. (2026, August 25). Meat preferences vary a lot across different countries. Our World in Data. https://ourworldindata.org/data,insights/meat,preferences,vary,a,lot,across,different,countries 
 
 ## Organisation
 A catalogue of my experience with other tools, software and programming languages 
