@@ -31,6 +31,6 @@ These are evidences such as certificates and display of the skills that I was ab
 
 [View tidyverse Certificate (PDF)](tidyverse_cert.pdf)
 
-I've also took notes and recreated many intricate codes, tools, and plots from the ggplot2 & tidyverse packages. All of my detailed notes and codes can be viewed in the following R script:
+I've also took notes and recreated many intricate codes, tools, and plots from the ggplot2 & tidyverse packages. All of my detailed notes and codes can be viewed in the following R script: [tidyverse and ggplot practice.R](./tidyverse and ggplot practice.R) 
 
 
