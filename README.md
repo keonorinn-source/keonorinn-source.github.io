@@ -16,4 +16,4 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 
 ## Module 4
 
-- [Developing data visualisation skills in R with tidyverse and ggplot2](module-4-portfolio-exercise) — Developing my skills in data visusalisation using R studios as my tool of choice. I've completed two certificates from DataCamp: Introduction to Data Visualisation with gglot2 & Introduction to Data Visualisation with tidyverse. 
+- [Developing data visualisation skills in R with tidyverse and ggplot2](module-4-skills-showcase) — Developing my skills in data visusalisation using R studios as my tool of choice. I've completed two certificates from DataCamp: Introduction to Data Visualisation with gglot2 & Introduction to Data Visualisation with tidyverse. 
