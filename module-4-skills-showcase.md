@@ -28,5 +28,6 @@ A catalogue of my experience with other tools, software and programming language
 These are evidences such as certificates and display of the skills that I was able to learn from two DataCamp courses: Intro to Data Visualisation with ggplot2 and Intro to Data Visualisation with tidyverse
 
 [View ggplot2 Certificate (PDF)](ggplot_cert.pdf)
+
 [View tidyverse Certificate (PDF)](tidyverse_cert.pdf)
 
