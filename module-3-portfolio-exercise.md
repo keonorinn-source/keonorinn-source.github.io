@@ -8,10 +8,8 @@ This module tasks me with choosing a visualisation from HowMuch.net and explorin
 used in HowMuch.net holds up to the original data source, which is the Bureau of Economic Analysis (BEA) US. 
 
 ## The visualisation
-
-![Share of passenger kilometres travelled by rail and road, 2021](rpp_chart.jpg)
-
-*Source: [Irena (2024)](#references)*
+![Regional Price Parities by State, visualized by HowMuch.net](regional-price-parities-by-state-cfce.jpg)
+*Source: [Irena (2021)](#references)*
 
 ## Response to step 4: Investigating the original sources and examining the accuracy
 
@@ -19,7 +17,7 @@ used in HowMuch.net holds up to the original data source, which is the Bureau of
 The original data source comes from the U.S Bureau of Economic Analysis (BEA), where HowMuch.net stated they’ve got their figures as of December of 2020. Under Price & Inflation section, where it is named as “Regional Price Parities by State and Metro Area”, this can be accessed directly from the link provided by HowMuch.net. To get the exact downloadable 2020 dataset, I’ve clicked on “Current Release”, and “All items RPP” below the graph titled “Regional Price Parities for States, 2024 (United States = 100)”. Inside the link is an Interactive Data Tables page where I can filter Area = All Areas, Time Period = 2020, Statistics = RPPs: All Items. Additionally, per Dr. James Baglin’s suggestion, I’ve used the way-back machine (internet archive website) to trace the BEA link back to the exact time frame of 2020. I was able to access the 2020 version of the BEA website; I found that the exact data used for the visualisation by HowMuch.net is based on the 2019 RPP report by BEA as the data points matched perfectly. Unfortunately, I couldn’t access further links inside the 2020 website version of the way back machine. Since the 2019 visualisation titled “Regional Price Parities for States, 2019” matched perfectly with the visualisation from HowMuch.net, I’ve decided to use the 2019 XLXS file as the original data source instead of the 2020 version referenced on HowMuch.net’s website. 
 
 
-## II.	APA style reference of original data source(s)
+## II.	References: APA style reference of original data source(s)
 
 •	Bureau of Economic Analysis US. (2019). Real personal income by state and metropolitan area, 2019 | U.S. Bureau of Economic Analysis (BEA). Archive.Org. https://web.archive.org/web/20210115225140/https://www.bea.gov/news/2020/real-personal-income-state-and-metropolitan-area-2019
 
