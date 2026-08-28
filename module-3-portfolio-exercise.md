@@ -8,7 +8,7 @@ This module tasks me with choosing a visualisation from HowMuch.net and explorin
 used in HowMuch.net holds up to the original data source, which is the Bureau of Economic Analysis (BEA) US. 
 
 ## The visualisation
-![Regional Price Parities by State, visualized by HowMuch.net](regional-price-parities-by-state-cfce.jpg)
+![Regional Price Parities by State, visualized by HowMuch.net](rpp_chart.jpg)
 *Source: [Irena (2021)](#references)*
 
 ## Response to step 4: Investigating the original sources and examining the accuracy
