@@ -33,11 +33,11 @@ These are evidences such as certificates and display of the skills that I was ab
 
 I've also took notes and recreated many intricate codes, tools, and plots from the ggplot2 & tidyverse packages. All of my detailed notes and codes can be viewed in the following R script: 
 
-[tidyverse and ggplot practice.R](./tidyverse%20and%20ggplot%20practice.R) 
+[tidyverse and ggplot practice.R](<./tidyverse and ggplot practice.R>)
 
 Additionally, my R script containing my code where I've recreated and recoloured the "Meat preferences vary a lot across different countries" visualisation by OWID is also another great example of how I was able to showcase my R skills, granted, I got a lot of help from online tools, mainly google searches. 
 
-[tidyverse and ggplot practice.R](./tidyverse%20and%20ggplot%20practice.R) 
+[Viz_recreation_and_Recolour.R](./Viz_recreation_and_Recolour.R)
 
 
 
