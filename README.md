@@ -9,3 +9,11 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 ## Module 2
 
 - [Gestalt](module-2-gestalt) — analysing a chosen visualisation from Our World in Data chart through preattentive processing, Gestalt laws, and visual comparison accuracy.
+
+## Module 3
+
+- [Examining and tracing a data source to a visualisation on HowMuch.net](module-3-portfolio-exercise) — extracting the original sources of data used on a public website, verifying and examine the accuracy and finding if there are any discrepancies.
+
+## Module 4
+
+- [Developing data visualisation skills in R with tidyverse and ggplot2](module-4-portfolio-exercise) — Developing my skills in data visusalisation using R studios as my tool of choice. I've completed two certificates from DataCamp: Introduction to Data Visualisation with gglot2 & Introduction to Data Visualisation with tidyverse. 
