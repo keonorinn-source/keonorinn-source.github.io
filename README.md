@@ -20,4 +20,4 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 
 ## Module 5
 
-- [Copy the master & recolour it!](module-5-recreation-and-recolour) — I've recreated a visualisation I've found on OWID using R studio, documented my creation process, errors, and my results. Additionally, I've also recoloured the visualisation to make it follow responsible colour principles and be more accessible to people with colour-blindness
+- [Copy the master & recolour it!](module-5-recreation-recolour) — I've recreated a visualisation I've found on OWID using R studio, documented my creation process, errors, and my results. Additionally, I've also recoloured the visualisation to make it follow responsible colour principles and be more accessible to people with colour-blindness
