@@ -25,5 +25,9 @@ A catalogue of my experience with other tools, software and programming language
 - Video Games - I love playing games such as FPS, RPG and Indie. My current favourites is Overwatch and League of Legends.
 
 ## Evidence
+These are evidences such as certificates and display of the skills that I was able to learn from two DataCamp courses: Intro to Data Visualisation with ggplot2 and Intro to Data Visualisation with tidyverse
 
+![Intro to Data Visualisation with ggploy2 Certificate](ggplot_cert.pdf)
+
+![Intro to Data Visualisation with tidyverse Certificate](tidyverse_cert.pdf)
 
