@@ -9,7 +9,7 @@ used in HowMuch.net holds up to the original data source, which is the Bureau of
 
 ## The visualisation
 ![Regional Price Parities by State, visualized by HowMuch.net](rpp_chart.jpg)
-*Source: [Irena (2021)](#references)*
+*Source: [Irena (2021)]
 
 ## Response to step 4: Investigating the original sources and examining the accuracy
 
