@@ -63,5 +63,5 @@ I kept the same eight-percent threshold for the labels, meaning that only segmen
 Finally, I reversed the legend using guide_legend(reverse = TRUE) so that its order matches the order in which the meat categories appear in the stacked bars. The result is a recoloured version that keeps the structure and layout of the reproduced visualisation while improving the distinction between categories and the readability of labels on lighter backgrounds. 
 
 # My Recolour of the OWID chart
-![Recolour of Meat preferences vary a lot across different countries](final_viz_recolour.png)
+![Recolour of Meat preferences vary a lot across different countries](final_data_recolour.png)
 
