@@ -21,8 +21,11 @@ The original data source comes from the U.S Bureau of Economic Analysis (BEA), w
 
 ##II.	APA style reference of original data source(s)
 •	Bureau of Economic Analysis US. (2019). Real personal income by state and metropolitan area, 2019 | U.S. Bureau of Economic Analysis (BEA). Archive.Org. https://web.archive.org/web/20210115225140/https://www.bea.gov/news/2020/real-personal-income-state-and-metropolitan-area-2019
+
 •	Bureau of Economic Analysis US. (2026). BEA interactive data application. Bea.Gov. https://apps.bea.gov/itable/?ReqID=70&step=1#eyJhcHBpZCI6NzAsInN0ZXBzIjpbMSwyOSwyNSwzMSwyNiwyNywzMCwzMF0sImRhdGEiOltbIlRhYmxlSWQiLCIxMDEiXSxbIk1ham9yX0FyZWEiLCIwIl0sWyJTdGF0ZSIsWyIwIl1dLFsiQXJlYSIsWyJYWCJdXSxbIlN0YXRpc3RpYyIsIjEiXSxbIlVuaXRfb2ZfbWVhc3VyZSIsIkxldmVscyJdLFsiWWVhciIsWyIyMDE5Il1dLFsiWWVhckJlZ2luIiwiLTEiXSxbIlllYXJfRW5kIiwiLTEiXV19
+
 •	Bureau of Economics Analysis US. (2024). Real personal consumption expenditures by state and real personal income by state, 2024 | U.S. Bureau of Economic Analysis (BEA). Bea.Gov. https://www.bea.gov/news/2026/real-personal-consumption-expenditures-state-and-real-personal-income-state-2024
+
 •	Irena. (2021, April 21). Visualized: Regional price parity for each state. HowMuch. https://howmuch.net/articles/regional-price-parities-by-state 
 
 
