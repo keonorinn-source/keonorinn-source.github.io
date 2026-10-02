@@ -3,7 +3,7 @@
 *Published 2 October 2026*
 
 ## Original Visusalisation
-![Annual CO₂ emissions 2024](meat-preferences-by-country.jpg)
+![Annual CO₂ emissions 2024](annual-co2.png)
 Global Carbon Budget. (2025, November 13). Annual CO₂ emissions [Data set]. Our World in Data. https://ourworldindata.org/grapher/annual-co2-emissions-per-country
 
 ## 1. Finding original visualisation
