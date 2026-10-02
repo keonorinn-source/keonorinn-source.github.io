@@ -21,3 +21,7 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 ## Module 5
 
 - [Copy the master & recolour it!](module-5.md) — I've recreated a visualisation I've found on OWID using R studio, documented my creation process, errors, and my results. Additionally, I've also recoloured the visualisation to make it follow responsible colour principles and be more accessible to people with colour-blindness
+
+## Module 6
+
+- [Checked and accessible!!](module-6-improvements-made.md) — Checking my recreated visualisation against the Data Visualisation Checklist website to evaluate it against 23 specifications and grading it out of 46. The gaps are improvements I can make to my visualisation. I created the improved visualisation and justified my reasonings, thinking and decisions in the reflection. 
