@@ -10,8 +10,8 @@ When it comes to choosing interesting spatia, I bounced around many ideas, I was
 
 For the visualisation itself, I chose a choropleth map, where each country is coloured according to the percentage of its population using the internet. I first reshaped the World Bank Data so that each country had a separate value for each year, then used the rnaturalearth package to obtain the geographical boundaries for each country. I joined the two datasets using country codes so that the internet usage data could be displayed directly on the map. Rather than simply using the latest year available, I checked the data coverage across different years and selected the most recent year where at least 80% of countries had data. For countries that were missing that particular year, I allowed their most recent value from within the previous two years to be used. I felt this was a reasonable compromise because it gave me much better global coverage without using values that were too old to make a fair comparison. 
 
-## Reconstructing the data visualisation with improvements made
-![Recreation of Meat preferences vary a lot across different countries](Module-6-Improved-Viz.png) 
+## Chorepleth map of % of population using the internet worldwide
+![Internet choropleth map](internet_use_map.png) 
 
 For the final design, I used a binned sequential colour scale so that countries could be grouped into clear ranges of internet usage rather than relying on a difficult-to-read continuous gradient. I used the viridis palette because it provides good colour accessibility and maintains differences between shades when viewed by people with colour-vision deficiencies. Countries without recent data were shown in light grey so they could be distinguished from countries with low internet usage. I also used a Robinson projection to make the world map look less distorted, added a descriptive title and subtitle to communicate the main pattern, and generated alt text directly from the data so that the accessibility description would remain consistent with the map.  
 
