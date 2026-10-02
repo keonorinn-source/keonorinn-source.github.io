@@ -24,4 +24,4 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 
 ## Module 6
 
-- [Checked and accessible!!](module-6-improvements-made.md) — Checking my recreated visualisation against the Data Visualisation Checklist website to evaluate it against 23 specifications and grading it out of 46. The gaps are improvements I can make to my visualisation. I created the improved visualisation and justified my reasonings, thinking and decisions in the reflection. 
+- [Checked and accessible!](module-6-improvements-made.md) — Checking my recreated visualisation against the Data Visualisation Checklist website to evaluate it against 23 specifications and grading it out of 46. The gaps are improvements I can make to my visualisation. I created the improved visualisation and justified my reasonings, thinking and decisions in the reflection. 
