@@ -1,4 +1,4 @@
-# Module 6: Finding Improvements and Making It
+# Module 6: Checked and accessible!
 
 *Published 2 October 2026*
 
