@@ -16,7 +16,7 @@ Upon deciding on another variate to add, I identified population size as a meani
 I chose bubble size because it allowed me to add the population variable without substantially changing the original visualisation or making the time trends harder to follow. I chose the ten-year intervals rather than adding a bubble for every year, as this would have made the chart much more cluttered. The resulting visualisation works particularly well for the larger countries, such as China, India and the United States, where the bubbles clearly show the scale of their populations alongside their emissions. However, I found that the smaller countries become more difficult to distinguish because their population bubbles are much smaller and several lines overlap near the bottom of the chart. This is an important limitation of the approach, but I decided that preserving the overall comparison was more useful than increasing the bubble sizes artificially and potentially misrepresenting the population differences. 
 
 ## Multivariate Visualisation
-![CO2 emissions by country and population size](co2_poopulation_bubbles.png) 
+![CO2 emissions by country and population size](co2_population_bubbles.png) 
 
 
 ## Reflection
