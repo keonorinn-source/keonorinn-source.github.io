@@ -24,4 +24,12 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 
 ## Module 6
 
-- [Checked and accessible!](module-6-improvements-made.md) — Checking my recreated visualisation against the Data Visualisation Checklist website to evaluate it against 23 specifications and grading it out of 46. The gaps are improvements I can make to my visualisation. I created the improved visualisation and justified my reasonings, thinking and decisions in the reflection. 
+- [Checked and accessible!](module-6-checked-and-accessible.md) — Checking my recreated visualisation against the Data Visualisation Checklist website to evaluate it against 23 specifications and grading it out of 46. The gaps are improvements I can make to my visualisation. I created the improved visualisation and justified my reasonings, thinking and decisions in the reflection.
+
+## Module 7
+
+- [make it multivariate!](module-6-make-it-multivariate.md) — Choosing a data visualisation and adding an additional variable to it.
+
+## Module 8
+
+- [Map it!](module-8-map-it.md) — creating a spatia data visualisation
