@@ -27,13 +27,11 @@ This meant that a more realistic score was around 40/46 (~86%), while thats stil
 After reviewing my chart against the Data Visualisation Checklist, I identified accessibility as a main area of concern and improvement. My current charts rely heavily on colour, and while the recoloured version is more colour-blind friendly, it is still very hard to interpret if printed in black and white, potentially causing issues for viewers who can’t discern the meat categories off of colour alone. To address this, I plan to label each category directly on the stacked bar chart and removing the legend. I will also change white labels on light segments to dark text to improve contrast and visual clarity for viewers. Beyond accessibility, I want the chart to communicate a clearer message, I plan to rewrite the title to state a specific finding, use colour to emphasise the category that supports that finding and either sort the countries by a key category or explain the current ordering in the subtitle. Finally, I will add alt text, so the chart is accessible to screen reader users.  
 
 ## Reconstructing the data visualisation with improvements made
-
-Recreating the data visualisations but with my stated improvements:
-![Recreation of Meat preferences vary a lot across different countries](final_data_recreation.png) 
+![Recreation of Meat preferences vary a lot across different countries](Module-6-Improved-Viz.png) 
 
 
 ## Greyscale version to check the "printed in black and white" checklist item, done using the installed R package “magick” to make the visualisation appear black and white: 
-![Recolour of Meat preferences vary a lot across different countries](final_data_recolour.png)
+![Recolour of Meat preferences vary a lot across different countries](meat_chart_greyscale_check.png)
 
 ## Reflection
 
