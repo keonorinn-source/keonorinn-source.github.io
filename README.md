@@ -28,7 +28,7 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 
 ## Module 7
 
-- [make it multivariate!](module-6-make-it-multivariate.md) — Choosing a data visualisation and adding an additional variable to it.
+- [make it multivariate!](module-7-make-it-multivariate.md) — Choosing a data visualisation and adding an additional variable to it.
 
 ## Module 8
 
