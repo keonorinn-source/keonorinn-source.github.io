@@ -15,6 +15,8 @@ An important part of the development process involved handling data quality rath
 ## Interactive internet choropleth map
 ![interactive_internet choropleth map](interactive_internet_map.png) 
 
+This is a screenshot of the native Shiny URL on my computer, the embedded link can be provided via email. 
+
 Looking back, I believe the final design successfully balances simplicity, functionality and analytical purpose. The regional filter and hover tooltips provide meaningful opportunities for exploration without overwhelming the interface with controls. However, the map could be improved by providing a more explicit distinction between missing data and countries outside the selected region. It also measures internet usage rather than affordability, connection quality or digital literacy, so it cannot represent every dimension of the digital divide. A more nuanced approach I could take in the future is by also considering the disparity between internet affordability between countries. I believe this could reveal and explain if there are any disproportionate internet access between countries due to price differences—which isn’t an insight this current project could reveal.     
 
 ## Reflection
