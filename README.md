@@ -33,3 +33,11 @@ Norinn Keo — MATH2237 Data Visualisation with R, RMIT University, Semester 2, 
 ## Module 8
 
 - [Map it!](module-8-map-it.md) — creating a spatia data visualisation
+
+## Module 9
+
+- [Make It Interactive!](module-9-make-it-interactive.md) — creating an interactive internet user percentage choropleth map based on module 8.
+
+## Module 10
+
+- [Multiplot it!](module-10-multiplot-it.md) — building upon the interactivity of module 9 by adding more engaging features and multiplotting the data by including a line graph which moves with the scatterplot upon interacting with the timeline button on the top right.  
